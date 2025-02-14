@@ -1,2 +1,4 @@
 # flattened_repo.txt
 # repo_structure.yaml
+node_modules
+.env
